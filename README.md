@@ -1,1 +1,0 @@
-# Collage Schedule System
